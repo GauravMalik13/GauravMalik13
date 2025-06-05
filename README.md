@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GauravMalik13
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS  
-- 💞️ I’m looking to collaborate on Web Projects.
+- 👀 M.Sc. Physics, IIT=H  
 
 <!---
 GauravMalik13/GauravMalik13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
